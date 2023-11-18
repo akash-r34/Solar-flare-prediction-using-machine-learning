@@ -1,1 +1,1 @@
-# Solar-flare-prediction-using-machine-learning
+# Solar flare prediction using machine learning
