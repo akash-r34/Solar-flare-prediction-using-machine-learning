@@ -62,6 +62,12 @@
 </ul>
 
 <h2>Results</h2>
+<div align="center">
+  <img src='https://github.com/akash-r34/Solar-flare-prediction-using-machine-learning/assets/113085803/6c308637-430d-4e59-9f05-4f2d5a62dfe8' style="display: block; align: center; width: 50%;"/>
+</div>
+<br>
+
+
 
 <p>Various visualizations and evaluation metrics are provided in the Jupyter Notebook to assess the performance of the models.</p>
 
